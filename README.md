@@ -1,7 +1,8 @@
 
 <h1 align="center"> Livrarias Livra </h1>
-<h2>Trabalho de Programação Orientada a Objetos</h2>
 <p><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+<h2>Trabalho de Programação Orientada a Objetos</h2>
+
 <p align="justify">
   A proposta é a criação de um sistema para uma livraria, em que os clientes podem acessar para alugar ou comprar livros.
 </p>
@@ -28,3 +29,5 @@ Após carregar a tela de início, temos a tela de login: **(fotos)
 - `Usuário Cliente`: poderá fazer o login e acessar normalmente, entretanto, caso não tenha conta, ele pode clicar em se cadastrar e informar os seus dados ou recuperar uma senha, criando uma nova. **(fotos)
 <p>Feito o login, ele pode decidir entre os diversos livros disponíveis no catálogo(que contém a descrição) e escolher se vai alugá-los ou comprá-los(caso seja um usuário premium). **(fotos)</p>
 <p>Com os livros no carrinho, ele pode efetuar a compra/aluguel. **(fotos)</p>
+
+## :mortar_board: Diagrama de Classes
