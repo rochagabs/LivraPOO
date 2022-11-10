@@ -13,15 +13,16 @@
 - ``Java 8``
 - ``Apache Netbeans IDE 14``
 - ``MySQL Workbench 8.0 CE``
+- ``BlueJ``
 - ``Paradigma de orientação a objetos``
 
 ## 📁 Acesso ao projeto
-
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+Através do download do arquivo zip enviado no Google Classroom, acesse a pasta src para encontrar o código-fonte.
 
 ## 🛠️ Abrir e rodar o projeto
+Tenha instalado o JDK no site https://www.java.com/br/download/ e o MySQL no https://www.mysql.com/products/workbench/e configurado-os, dê duplo clique no arquivo jar ou execute o seguinte código no prompt de comando:
+- `java -jar arquivo.jar`
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
 
 ## :hammer: Utilizando o projeto
 Após carregar a tela de início, temos a tela de login: **(fotos)
@@ -31,3 +32,5 @@ Após carregar a tela de início, temos a tela de login: **(fotos)
 <p>Com os livros no carrinho, ele pode efetuar a compra/aluguel. **(fotos)</p>
 
 ## :mortar_board: Diagrama de Classes
+**Utilizando BlueJ:**
+(fotos)
