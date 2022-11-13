@@ -20,7 +20,7 @@
 Através do download do arquivo zip enviado no Google Classroom, acesse a pasta src para encontrar o código-fonte.
 
 ## 🛠️ Abrir e rodar o projeto
-Tenha instalado o JDK no site https://www.java.com/br/download/ e o MySQL no https://www.mysql.com/products/workbench/e configurado-os, dê duplo clique no arquivo jar ou execute o seguinte código no prompt de comando:
+Tendo instalados  e configurados o JDK no site https://www.java.com/br/download/ e o MySQL no https://www.mysql.com/products/workbench/, dê duplo clique no arquivo jar ou execute o seguinte código no prompt de comando:
 - `java -jar arquivo.jar`
 
 
